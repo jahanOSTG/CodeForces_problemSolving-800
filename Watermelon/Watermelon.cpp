@@ -5,7 +5,7 @@ int main() {
     int n;
     cin >> n;
 
-    if (n <= 0) {  // Handling invalid input cases
+    if (n <= 0) {  
         cout << "Invalid input";
     } else if (n == 2) {
         cout << "No";
