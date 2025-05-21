@@ -13,6 +13,7 @@ int main() {
         } else {
             cout << s << endl;
         }
+        
     }
 
     return 0;
