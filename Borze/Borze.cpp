@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+
 int main(){
     string borze_code;
     cin>> borze_code;
