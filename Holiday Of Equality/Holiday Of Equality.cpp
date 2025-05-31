@@ -7,6 +7,7 @@ int main(){
     int a[100];
     cin>>n;
     int max=0,sum=0;
+    
     for(int i=1; i<=n; i++){
         cin>>a[i];
           if(a[i]>max){
