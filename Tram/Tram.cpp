@@ -17,4 +17,5 @@ for(int i=1;i<n;i++){
         }
 }
 cout<<minimum<<endl;
+return 0;
 }
