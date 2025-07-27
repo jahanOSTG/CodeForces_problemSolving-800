@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+
 int main(){
 int n;
 int tram=0,minimum=0;
