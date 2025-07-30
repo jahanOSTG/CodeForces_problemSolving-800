@@ -14,4 +14,5 @@ int main(){
 
     }
     cout<<group<<endl;
+    return 0;
 }
