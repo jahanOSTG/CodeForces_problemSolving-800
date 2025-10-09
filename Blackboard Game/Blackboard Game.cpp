@@ -12,8 +12,6 @@ int main() {
             cout<<"Alice"<<endl;
     }
 
-
-
-
     return 0;
 }
+
