@@ -8,10 +8,10 @@ int main(){
     if(n<=2){
     for(int i=1;i<=n;i++){
             count=count*5;
-
     }
     cout<<count;
     }
     return 0;
 }
+
 
