@@ -4,6 +4,7 @@ int main(){
     int n, t;
     int sum;
     cin >> t;
+    
     for(int i = 1; i <= t; i++){
         cin >> n;
         int a = n / 10;
@@ -12,4 +13,5 @@ int main(){
         cout << sum << endl;
     }
 }
+
 
