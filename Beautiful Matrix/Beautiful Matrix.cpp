@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
-
 int main(){
     int matrix[5][5];
     int x,y;
@@ -18,4 +17,5 @@ int main(){
     int column=abs(y-2);
     cout<<row+column<<endl;
 }
+
 
