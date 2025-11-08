@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+
 int main(){
     int t,x,y;
     cin>>t;
@@ -23,4 +24,5 @@ int main(){
     }
     return 0;
 }
+
 
